@@ -1,0 +1,30 @@
+/*--left-sidebar--*/
+.left-sidebar {
+padding-top: 50px;
+height: 100vh;
+background-color: #B8001B;
+}
+.btn {
+padding: 20px;
+width: 100%;
+border-radius: 0;
+} 
+li {
+padding-bottom: 10px;
+}
+
+/*--right-sidebar--*/
+.right-sidebar {
+padding-left: 5%;
+}
+.container-sets {
+border-top: 5px solid #B8001B;
+border-left: 1px solid #64666F;
+border-right: 1px solid #64666F;
+border-bottom: 1px solid #64666F;
+padding: 20px;
+margin-bottom: 50px;
+}
+.container-sets:hover {
+background-color: rgba(0,0,0,0.2);
+}
